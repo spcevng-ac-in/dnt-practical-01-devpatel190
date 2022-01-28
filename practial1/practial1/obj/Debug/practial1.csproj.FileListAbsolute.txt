@@ -1,0 +1,8 @@
+C:\Users\jsrav\source\repos\practial1\practial1\bin\Debug\practial1.exe.config
+C:\Users\jsrav\source\repos\practial1\practial1\bin\Debug\practial1.exe
+C:\Users\jsrav\source\repos\practial1\practial1\bin\Debug\practial1.pdb
+C:\Users\jsrav\source\repos\practial1\practial1\obj\Debug\practial1.csproj.AssemblyReference.cache
+C:\Users\jsrav\source\repos\practial1\practial1\obj\Debug\practial1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jsrav\source\repos\practial1\practial1\obj\Debug\practial1.csproj.CoreCompileInputs.cache
+C:\Users\jsrav\source\repos\practial1\practial1\obj\Debug\practial1.exe
+C:\Users\jsrav\source\repos\practial1\practial1\obj\Debug\practial1.pdb
